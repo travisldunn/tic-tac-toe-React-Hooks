@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,QACE,qBAAsB,CACtB,WAAY,CACZ,UACF,CAEA,cACE,YACF,CAEA,gBACE,YACF","file":"main.abeba674.chunk.css","sourcesContent":[".square {\n  border: 1px solid #999;\n  height: 34px;\n  width: 34px;\n}\n\n.square:focus {\n  outline: none;\n}\n\n.game-board div {\n  display: flex;\n}\n"]}
