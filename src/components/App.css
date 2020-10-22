@@ -1,0 +1,23 @@
+.board {
+  display: inline-block;
+}
+
+.goTo {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 50px;
+}
+
+.goTo div {
+  margin-bottom: 10px;
+  background: lightblue;
+  padding: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button {
+  vertical-align: top;
+  height: 30px;
+  width: 30px;
+}
